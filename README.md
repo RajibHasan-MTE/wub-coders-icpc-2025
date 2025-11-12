@@ -10,9 +10,9 @@ This repository serves as the central hub for all code submissions and problem s
 - **ICPC ID:** 1123601754@student.wub.edu.bd  
 - **Department:** Mechatronics Engineering
 
-### Tisha Akter Jui
+<!-- ### Tisha Akter Jui
 - **ICPC ID:** 0323643817@student.wub.edu.bd  
-- **Department:** Computer Science & Engineering (CSE)
+- **Department:** Computer Science & Engineering (CSE) -->
 
 ### Mymoona Islam Tamanna
 - **ICPC ID:** 1123621798@student.wub.edu.bd  
