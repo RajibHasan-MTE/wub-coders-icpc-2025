@@ -16,7 +16,6 @@ so we can use that to calculate the answer faster.
 #include <stdio.h>
 #include <stdlib.h>
 
-// Function to calculate sum of |i % A - i % (A-1)| for one period of length A*(A-1)
 long long sum_one_period(int A) {
     long long sum = 0;
     int period = A * (A - 1);
